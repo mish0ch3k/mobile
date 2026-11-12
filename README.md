@@ -12,6 +12,7 @@
 | [PR05_WindFarm](PR05_WindFarm) | ПР5. Сенсори, сповіщення, графіки, кастомні компоненти | 17–20 |
 | [PR06_WindFarm](PR06_WindFarm) | ПР6. Анімація, файли, PDF, тестування, ресурси, реліз | 21–27 |
 | [RGR_WindFarm](RGR_WindFarm) | РГР. Мобільний застосунок моніторингу ВЕС | — |
+| [CW_TravelPlanner](CW_TravelPlanner) | Курсова робота. Планувальник подорожей (тема 4) | — |
 
 Кожна тека — окремий проєкт Android Studio (Kotlin 2.0, Jetpack Compose, Material 3, JDK 21).
 Відкрити: Android Studio → File → Open → тека проєкту → Sync → Run. Опис кожної роботи — у README.md теки.
