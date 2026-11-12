@@ -1,0 +1,10 @@
+<!-- Векторне зображення вітрової турбіни (власний малюнок) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp" android:height="96dp"
+    android:viewportWidth="96" android:viewportHeight="96">
+    <path android:fillColor="#90A4AE" android:pathData="M46,46 L50,46 L53,92 L43,92 Z" />
+    <path android:fillColor="#1565C0" android:pathData="M48,44 L44,8 Q48,4 52,8 Z" />
+    <path android:fillColor="#1565C0" android:pathData="M48,44 L80,62 Q80,68 74,68 Z" />
+    <path android:fillColor="#1565C0" android:pathData="M48,44 L22,68 Q16,68 16,62 Z" />
+    <path android:fillColor="#37474F" android:pathData="M48,38 A6,6 0 1,1 47.99,38 Z" />
+</vector>
